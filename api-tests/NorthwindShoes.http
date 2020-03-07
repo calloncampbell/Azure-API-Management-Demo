@@ -1,0 +1,13 @@
+### NorthWindShoes API DEMO ###
+### X-Powered-By
+
+@host = apim-toronto1
+@subscriptionKey = cf16258a253841709e9ad22d11e7e371
+
+### Get
+GET https://{{host}}.azure-api.net/api/Products
+Ocp-Apim-Subscription-Key: {{subscriptionKey}}
+
+### Get inventory
+GET https://{{host}}.azure-api.net/api/Inventory
+Ocp-Apim-Subscription-Key: {{subscriptionKey}}

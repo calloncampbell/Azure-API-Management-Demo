@@ -1,0 +1,8 @@
+### Conference API Demo ###
+
+@host = apim-developer-demo
+@subscriptionKey = 34dfaac791de4f8ba4ecfacfe595639f
+
+### Get speakers
+GET https://{{host}}.azure-api.net/conference/speakers
+Ocp-Apim-Subscription-Key: {{subscriptionKey}}
