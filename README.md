@@ -20,11 +20,15 @@ Coming soon.
 
 Coming soon.
 
-## Demo5 - Developer Portal 
+## Demo5 - Versions and Revisions 
 
 Coming soon.
 
-## Demo6 - Monitoring and Analytics 
+## Demo6 - Developer Portal 
+
+Coming soon.
+
+## Demo7 - Monitoring and Analytics 
 
 Coming soon.
  
