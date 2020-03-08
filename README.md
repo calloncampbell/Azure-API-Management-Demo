@@ -4,15 +4,15 @@ This repository contains the presentation and demo materials used by my talk on 
 
 # Demos
 
-## Demo1 - Create API Managament 
+## Demo1 - Create Azure API Management 
 
 Coming soon.
 
-## Demo2 - Import API
+## Demo2 - Import your API
 
 Coming soon.
 
-## Demo3 - Testing  
+## Demo3 - Testing and Mocking
 
 Coming soon.
 
