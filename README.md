@@ -36,12 +36,12 @@ Coming soon.
 
 All in one resource: http://aka.ms/apimlove 
 
-[Overview](https://azure.microsoft.com/en-us/services/api-management/)
+Azure API Management [Overview](https://azure.microsoft.com/en-us/services/api-management/)
 
-[Documentation](https://docs.microsoft.com/en-us/azure/api-management/) 
+Azure API Management [Documentation](https://docs.microsoft.com/en-us/azure/api-management/) 
 
-Ignite 2018: [Expose APIs with peace of mind when using Azure API Management - BRK2200](https://www.youtube.com/watch?v=BoZimCedfq8)
+Ignite 2018 Session: [Expose APIs with peace of mind when using Azure API Management - BRK2200](https://www.youtube.com/watch?v=BoZimCedfq8)
 
 Microsoft Learn: [Architect API Integration in Azure](https://bit.ly/2VxJCew)
 
-ebook: [Azure API Design eBook](https://aka.ms/api-design-ebook)
+eBook: [Azure API Design eBook](https://aka.ms/api-design-ebook)
