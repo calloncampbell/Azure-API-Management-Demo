@@ -8,7 +8,7 @@
 
     | Field | Details |
     | ----- | ------- |
-    Name | apim-conference-demo[random number]; the random number is to ensure the name is globally unique.
+    Name | apim-consumption-demo[random number]; the random number is to ensure the name is globally unique.
     Subscription | Select the subscription you want to use from the dropdown.
     Resource group | Click on **Create new** to create a new resource group and give it a name of rg-apim-demo
     Location | Select from the list and choose a location that is close to you. For me I choose: `(Canada) Canada Central`
@@ -24,3 +24,7 @@ Deployments for the Consumption tier is very quick at a minute. However if you s
 When the deployment is done you can take a look at your API Management instance.
 
 In our next demo we'll walk through importing an API.
+
+## Resources
+
+https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance
