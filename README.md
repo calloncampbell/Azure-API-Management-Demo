@@ -2,7 +2,7 @@
 
 This repository contains the presentation and demo materials used by my talk on `Exposing services with Azure API Management`.
 
-## Getting Started
+## Getting Started with Azure API Management
 
 ### Requirements
 - Azure Subscription (sign up for [free](https://azure.microsoft.com/en-us/free) or use a sandbox from [Microsoft Learn](https://docs.microsoft.com/en-us/learn/))
