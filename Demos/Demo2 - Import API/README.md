@@ -4,11 +4,15 @@
 
 1. From the left navigation pane, in the **API Management** section click on the **APIs** menu link.
 
-1. You will now be presented with the **Add a new API** scren. Click on the **OpenAPI** option.
+1. You will now be presented with the **Add a new API** screen. Click on the **OpenAPI** option.
+
+    ![](../../Images/Demo2/Add-API-OpenAPI.png)
 
 1. In the OpenAPI specification edit box, paste in the following URL `http://conferenceapi.azurewebsites.net/?format=json` and then the rest of the text boxes will automatically fill in. This URL is a demo API created by Microsoft.
 
 1. Then click on the **Create** button.  
+
+![](../../Images/Demo2/Create-API.png)
 
 1. You should then see your new API added with all the available endpoints.
 
@@ -24,7 +28,7 @@ Now that your API is imported it's a good idea to associate it to a **Product**.
 
 1. Finally click on the **Create** button to create your product.
 
-
+![](../../Images/Demo2/Create-API-Product.png)
 
 In our next demo we'll walk through how you can test your API and create new endpoints with mocked results.
 
