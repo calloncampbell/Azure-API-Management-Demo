@@ -29,13 +29,13 @@ In this demo I'll show you how to test your API endpoints as well as create new 
 
 In this demo I'll show you one of the key features of API Management which is Policies. With policies we can set quotas, rate limiting, transformation and many more. 
 
-### Demo5 - Versions and Revisions 
-
-In this demo I'll show you how to create revisions of your API for non-breaking changes and then when there is a breaking change how to create a new version.
-
-### Demo6 - Developer Portal 
+### Demo5 - Developer Portal 
 
 Coming soon.
+
+### Demo6 - Versions and Revisions 
+
+In this demo I'll show you how to create revisions of your API for non-breaking changes and then when there is a breaking change how to create a new version.
 
 ### Demo7 - Monitoring and Analytics 
 
