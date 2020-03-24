@@ -1,5 +1,7 @@
 # Azure API Management Demo
 
+![](./Images/Enterprise-Integration.png)
+
 This repository contains the presentation and demo materials used by my talk on `Exposing services with Azure API Management`.
 
 ## Getting Started with Azure API Management
